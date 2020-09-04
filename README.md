@@ -137,14 +137,20 @@ In addition, the conference will include:
 
 ## Registration
 
-
-## Ogranization and Board
-
+Registration and pricing are now posted at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981). Please wait until further information will be provided with registrations, we need to determine the best way to handle existing tickets from the cancelled in-person event. 
 
 
 ## Conference Board
 
-
+- **Conference Co-Chair** Dr. Michael Tiller, Ricardo
+- **Conference Co-Chair** Dr. Hubertus Tummescheit, Modelon
+- **Program Chair** Prof. Luigi Vanfretti, Rensselaer Polytechnic Insitute
+- **Conference Excecutive Coordinator** Dr. Christopher Laughman, Mitsubishi Electric Research Laboratories
+- **Local Co-Chair** Prof. Wangda Zuo, University of Colorado Boulder
+- **Local Co-Chair** Jessica Stershic, University of Colorado Boulder
+- Dr. Michael Wetter, Maplesoft
+- Paul Goosens, Maplesoft
+- Behnam Afsharpoya, Dassault Systemes
 
 
 
