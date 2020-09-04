@@ -64,16 +64,12 @@ The conference program, book of abstracts and other information are available he
 Sponsors for the online event:
 
 ### Platinum Sponsor
-![](images/Modelon.png)
+![Modelon](images/Modelon.png)
 
 ### Gold Sponsors
-![](images/Ansys.png)
-![](images/Claytex.png)
-![](images/Dassault.png)
-![](images/Julia.png)
-![](images/MapleSoft.html)
-![](images/Ricardo.png)
-![](images/Wolfram.png)
+![Ansys](images/Ansys.png) ![Claytex](images/Claytex.png) ![Dassault](images/Dassault.png)
+![Julia](images/Julia.png) ![Maplesoft](images/MapleSoft.html) ![Ricardo](images/Ricardo.png)
+![Wolfram](images/Wolfram.png)
 
 ### Silver Sponsors
 ![](images/Barcroft.jpeg)
