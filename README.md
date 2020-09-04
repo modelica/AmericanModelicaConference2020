@@ -51,9 +51,32 @@ The North American Modelica Users' Group, NAMUG,  will organize free Modelica wo
 
 ## Conference Program
 
+The conference program, book of abstracts and other information are available here:
+
+- [Proceedings]()
+- [Book of Abstracts]()
+- [Conference Program]()
+- [Library Award Winners]()
+
 
 ## Exhibition and Sponsorship
 
+Sponsors for the online event:
+
+### Platinum Sponsor
+![](images/Modelon.png)
+
+### Gold Sponsors
+![](images/Ansys.png)
+![](images/Claytex.png)
+![](images/Dassault.png)
+![](images/Julia.png)
+![](images/MapleSoft.html)
+![](images/Ricardo.png)
+![](images/Wolfram.png)
+
+### Silver Sponsors
+![](images/Barcroft.jpeg)
 
 ## Scope of the Conference
 
