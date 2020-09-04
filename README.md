@@ -68,7 +68,7 @@ Sponsors for the online event:
 
 ### Gold Sponsors
 ![Ansys](images/Ansys.png) ![Claytex](images/Claytex.png) ![Dassault](images/Dassault.png)
-![Julia](images/Julia.png) ![Maplesoft](images/MapleSoft.html) ![Ricardo](images/Ricardo.png)
+![Julia](images/Julia.png) ![Maplesoft](images/MapleSoft.jpeg) ![Ricardo](images/Ricardo.png)
 ![Wolfram](images/Wolfram.png)
 
 ### Silver Sponsors
