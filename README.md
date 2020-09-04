@@ -64,7 +64,7 @@ The conference program, book of abstracts and other information are available he
 Sponsors for the online event:
 
 ### Platinum Sponsor
-![Modelon](images/Modelon.png)
+![Modelon](images/Modelon.svg)
 
 ### Gold Sponsors
 ![Ansys](images/Ansys.png) ![Claytex](images/Claytex.png) ![Dassault](images/Dassault.png)
