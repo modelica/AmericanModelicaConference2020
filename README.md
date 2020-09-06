@@ -54,9 +54,11 @@ The North American Modelica Users' Group, NAMUG,  will organize free Modelica wo
 The conference program, book of abstracts and other information are available here:
 
 - [Proceedings]()
-- [Book of Abstracts]()
 - [Conference Program]()
 - [Library Award Winners]()
+- [Papers]()
+- [User Presentations]()
+- [Book of Abstracts]()
 
 
 ## Exhibition and Sponsorship
