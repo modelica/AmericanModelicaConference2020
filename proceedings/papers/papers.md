@@ -38,7 +38,7 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Scott Bortoff
 --- | ---
 Title | Modeling Contact and Collisions for Robotic Assembly Control
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_25.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_26.pdf) 
 
 
 ## Thermofluid Systems & HVAC
