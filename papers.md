@@ -18,7 +18,7 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Sergio A. Dorado-Rojas, Manuel Navarro Catalan, Marcelo de Castro Fernandes and Luigi Vanfretti 
 --- | ---
 Title | Performance Benchmark of Modelica Time-Domain Power System Automated Simulations using Python
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_27.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_28.pdf) 
 
 
 ## Mechanical Systems I
@@ -126,20 +126,20 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Ahmad Alsaab, Morgan Cameron, Colin Hough and Purna Musunuru
 --- | ---
 Title | Parameter Estimation Methods for Fault Diagnosis using Modelica and FMI
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_28.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_29.pdf) 
 
 
 Authors | Christopher Laughman and Scott Bortoff
 --- | ---
 Title | Nonlinear State Estimation with FMI: Tutorial and Applications
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_26.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_27.pdf) 
 
 ## Electromechanical Systems 
 
 Authors | Clément Coïc, Moritz Hübel and Matthis Thorade
 --- | ---
 Title | Enhanced Steady-State in Modelon Jet Propulsion Library, an Enabler for Industrial Design Workflows
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_24.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_25.pdf) 
 
 
 Authors | Giuseppe Laera, Luigi Vanfretti, Kyle Thomas and Matthew Gardner
