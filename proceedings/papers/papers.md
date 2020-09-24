@@ -6,7 +6,7 @@
 Authors | Yangyang Fu, Wangda Zuo and Kyri Baker 
 --- | ---
 Title | Multi-market Optimization of a Data Center without Storage Systems 
-Files | [[Abstract]](proceedings/Modelica_2020Conference_Abstracts.pdf)  [[Full Paper]](proceedings/papers/Modelica2020US_paper_8.pdf) 
+Files | [[Abstract]](proceedings/Modelica_2020Conference_Abstracts.pdf)  [[Full Paper]](Modelica2020US_paper_8.pdf) 
 
 
 Authors | Natesa MacRae, John Batteh, Stéphane Velut, Imran Khan, William Skrivan and Darren Jang 
