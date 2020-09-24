@@ -55,7 +55,7 @@ The conference program, book of abstracts and other information are available he
 
 - [Proceedings](https://modelica.org/events/modelica2019/subpages/modelica-conference-2020-proceedings)
 - [Conference Program](https://modelica.org/events/modelica2020Americas/program-outline)
-- [Papers](proceedings/papers/papers.md)
+- [Papers](papers.md)
 - [User Presentations](proceedings/userpresentations/userpresentations.md)
 - [Book of Abstracts](proceedings/Modelica_2020Conference_Abstracts.pdf)
 
