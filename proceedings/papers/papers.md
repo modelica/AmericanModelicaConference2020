@@ -144,7 +144,7 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 
 Authors | Giuseppe Laera, Luigi Vanfretti, Kyle Thomas and Matthew Gardner
 --- | ---
-Title | Application of Model-Based Testing to Dynamic Conformance Evaluation of Functional Mockup Units
+Title | Object Oriented Modeling and Control Design for PowerElectronics Half-Bridge Converter using Modelica
 Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_6.pdf) 
 
 
