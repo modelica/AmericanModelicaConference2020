@@ -6,7 +6,7 @@
 Authors | Wangda Zuo, Wei Tian, Yangyang Fu, Xu Han, Michael Wetter and James Vangilder
 --- | ---
 Title | Open Source Modelica Models for Data Center Cooling
-Files | [[Abstract]]() | [[Presentation]]() 
+Files | [[Abstract]]() | [[Presentation]](WangdaZuoOpenSource.pdf) 
 
 
 Authors | Nicholas Long, Amy Allen, Antoine Gautier and Yanfei Li
@@ -21,7 +21,7 @@ Title | Development of a Modelica Building Emulator for Model Predictive Control
 Files | [[Abstract]]() | [[Presentation]]() 
 
 
-## Systems Applicaitons I 
+## Systems Applicaitons I [[Intro]](SystemsApplicationsIIntro.pdf)
 
 Authors | Scott Greenwood
 --- | ---
@@ -32,7 +32,7 @@ Files | [[Abstract]]()  [[Presentation]]()
 Authors | Luigi Vanfretti
 --- | ---
 Title | Teaching a Course on Modeling and Simulation for Cyber-Physical Systems using Modelica and FMI Technologies with Hands-on-Laboratories
-Files | [[Abstract]]()  [[Presentation]]() 
+Files | [[Abstract]]()  [[Presentation]](LuigiVanfrettiCourse.pdf) 
 
 
 Authors | Marcelo de Castro Fernandes, Manuel Navarro Catalan and Luigi Vanfretti
@@ -41,7 +41,7 @@ Title | Open Instance Power System Library: a Modelica Library for Phasor Time-D
 Files | [[Abstract]]()  [[Presentation]]() 
 
 
-## Buildings Applications II
+## Buildings Applications II [[Intro]](BuildingApplicationsIIIntro.pdf)
 
 Authors | Tao Yang, Viktor Ljungdahl, Konstantin Filonenko and Christian Veje
 --- | ---

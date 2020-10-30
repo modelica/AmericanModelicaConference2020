@@ -1,12 +1,12 @@
 # Papers
 
 
-## Power Systems I
+## Power Systems I [[Intro]](PowerSystemsIIntro.pdf)
 
 Authors | Yangyang Fu, Wangda Zuo and Kyri Baker 
 --- | ---
 Title | Multi-market Optimization of a Data Center without Storage Systems 
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)  [[Full Paper]](Modelica2020US_paper_8.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)  [[Full Paper]](Modelica2020US_paper_8.pdf) [[Presentation]](Modelica2020US_presentation_8.pdf)
 
 
 Authors | Natesa MacRae, John Batteh, Stéphane Velut, Imran Khan, William Skrivan and Darren Jang 
@@ -18,10 +18,10 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Sergio A. Dorado-Rojas, Manuel Navarro Catalan, Marcelo de Castro Fernandes and Luigi Vanfretti 
 --- | ---
 Title | Performance Benchmark of Modelica Time-Domain Power System Automated Simulations using Python
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_28.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_28.pdf) [[Presentation]](Modelica2020US_presentation_28.pdf)
 
 
-## Mechanical Systems I
+## Mechanical Systems I [[Intro]](MechanicalSystemsIIntro.pdf)
 
 Authors | Joscha Müller, Maxime Baudette, Daniel Arnold and Michael Sankur 
 --- | ---
@@ -32,7 +32,7 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Mohammed Ahsan Adib Murad, Luigi Vanfretti and Federico Milano
 --- | ---
 Title | Modeling and Simulation of Filippov System Models with Sliding Motions using Modelica
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_23.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_23.pdf) [[Presentation]](Modelica2020US_presentation_23.pdf)
 
 
 Authors | Scott Bortoff
@@ -41,7 +41,7 @@ Title | Modeling Contact and Collisions for Robotic Assembly Control
 Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_25.pdf) 
 
 
-## Thermofluid Systems & HVAC
+## Thermofluid Systems & HVAC [[Intro]](ThermofluidSystemsIntro.pdf)
 
 Authors | Lixiang Li, Jesse Gohl, John Batteh, Christopher Greiner and Kai Wang
 --- | ---
@@ -52,16 +52,16 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Jing Wang, Wangda Zuo, Sen Huang and Draguna Vrabie
 --- | ---
 Title | Data-driven Prediction of Occupant Presence and Lighting Power: A Case Study for Small Commercial Buildings
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_7.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_7.pdf) [[Presentation]](Modelica2020US_presentation_7.pdf)
 
 
 Authors | Kun Zhang, David Blum, Milica Grahovac, Jianjun Hu, Jessica Granderson and Michael Wetter
 --- | ---
 Title | Development and Verification of Control Sequences for Single-Zone Variable Air Volume System Based on ASHRAE Guideline 36
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_19.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_19.pdf) [[Presentation]](Modelica2020US_presentation_19.pdf)
 
 
-## Mechanical Systems II
+## Mechanical Systems II [[Intro]](MechanicalSystemsIIIntro.pdf)
 
 Authors | Savin Viswanathan and Christian Holden
 --- | ---
@@ -78,7 +78,7 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Cory Rupp and Nicolas Reveles
 --- | ---
 Title | The Rotorcraft Aerodynamics Library: A Modelica Library for Simulation of Rotorcraft Aerodynamics and Whirl Flutter
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_12.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_12.pdf) [[Presentation]](Modelica2020US_presentation_12.pdf)
 
 
 ## Power Systems II
@@ -86,19 +86,19 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Christoph Gehbauer and Joscha Müller
 --- | ---
 Title | Hierarchical Multi-Level Electric Power System Simulation with Smart Photovoltaic Systems using the Functional Mock-up Interface on the Lawrencium Computing Cluster
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_20.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_20.pdf) [[Presentation]](Modelica2020US_presentation_20.pdf)
 
 
 Authors | Konstantin Filonenko, Mikkel Copeland, Klaus Jespersen and Christian Veje
 --- | ---
 Title | Modeling future heat pump integration in a power radial
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_15.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_15.pdf) [[Presentation]](Modelica2020US_presentation_15.pdf)
 
 
 Authors | Meaghan Podlaski, Luigi Vanfretti, Jonas Pesente and Marcelo de Castro Fernandes
 --- | ---
 Title | Parameter Estimation of User-Defined Control System Models for Itaipú Power Plant using Modelica and OpenIPSL
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_9.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_9.pdf) [[Presentation]](Modelica2020US_presentation_9.pdf)
 
 
 ## Language & Tools
@@ -118,15 +118,15 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Christian König, Alachew Mengist, Carl Gamble, Jos Höll, Kenneth Lausdahl, Tom Bokhove, Etienne Brosse, Oliver Möller and Adrian Pop
 --- | ---
 Title | Traceability in the Model-based Design of Cyber-Physical Systems
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_11.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_11.pdf) [[Presentation]](Modelica2020US_presentation_11.pdf)
 
 
-## Functional Mock Up Interface (FMI)
+## Functional Mock Up Interface (FMI) [[Intro]](FMIIntro.pdf)
 
 Authors | Ahmad Alsaab, Morgan Cameron, Colin Hough and Purna Musunuru
 --- | ---
 Title | Parameter Estimation Methods for Fault Diagnosis using Modelica and FMI
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_29.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_29.pdf) [[Presentation]](Modelica2020US_presentation_29.pdf)
 
 
 Authors | Christopher Laughman and Scott Bortoff
