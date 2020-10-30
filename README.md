@@ -53,7 +53,7 @@ The North American Modelica Users' Group, NAMUG,  will organize free Modelica wo
 
 The conference program, book of abstracts and other information are available here:
 
-- [Proceedings](https://modelica.org/events/modelica2019/subpages/modelica-conference-2020-proceedings)
+- [Proceedings](Proceedings.pdf)
 - [Conference Program](https://modelica.org/events/modelica2020Americas/program-outline)
 - [Papers](proceedings/papers/papers.md)
 - [User Presentations](proceedings/userpresentations/userpresentations.md)
