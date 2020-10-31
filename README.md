@@ -1,6 +1,18 @@
 The 2nd American Modelica Conference 2020 - Virtual Conference
 
 # About the Conference
+
+## Conference Program, Proceedings, Papers and Presentations
+
+The conference program, proceedings, papers, presentations and book of abstracts are available here:
+
+- [Conference Program](https://modelica.org/events/modelica2020Americas/program-outline)
+- [Book of Abstracts](proceedings/Modelica_2020Conference_Abstracts.pdf)
+- [Proceedings](198447_Modelica_2020Proceedings_v2C.pdf)
+- [Papers](proceedings/papers/papers.md)
+- [User Presentations](proceedings/userpresentations/userpresentations.md)
+
+
 ## Important Update: American Modelica Conference converted to Online Conference due to Coronavirus 
 
 The **American Modelica Conference 2020** will be held online from **September 22nd to September 24th** with all times in US Mountain time as our original location in Boulder. It is organized by the [Modelica Association](https://modelica.org/association) and the North American Modelica User Group [NAMUG](http://na.modelica-users.org/).
@@ -47,18 +59,6 @@ The presentations at the conference will be 15 minutes of presentation time with
 ## Free Modelica Workshops
 
 The North American Modelica Users' Group, NAMUG,  will organize free Modelica workshops on Monday. The workshop schedule will be determined soon and posted here.  If you are interested in attending one of these workshops, please select "Workshop Ticket" on the Eventbrite site of the conference. We will add information on this site when we have enough participants, and inform all who expressed interest via email. These workshops also include "hands-on-tutorial or exercise" sessions aiming to support beginners in the Modelica language and the FMI standard.
-
-
-## Conference Program
-
-The conference program, book of abstracts and other information are available here:
-
-- [Proceedings](198447_Modelica_2020Proceedings_v2C.pdf)
-- [Conference Program](https://modelica.org/events/modelica2020Americas/program-outline)
-- [Papers](proceedings/papers/papers.md)
-- [User Presentations](proceedings/userpresentations/userpresentations.md)
-- [Book of Abstracts](proceedings/Modelica_2020Conference_Abstracts.pdf)
-
 
 ## Exhibition and Sponsorship
 
