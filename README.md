@@ -6,12 +6,11 @@ The 2nd American Modelica Conference 2020 - Virtual Conference
 
 The conference program, proceedings, papers, presentations and book of abstracts are available here:
 
-- [Conference Program](https://modelica.org/events/modelica2020Americas/program-outline)
-- [Book of Abstracts](proceedings/Modelica_2020Conference_Abstracts.pdf)
-- [Proceedings](198447_Modelica_2020Proceedings_v2C.pdf)
-- [Papers](proceedings/papers/papers.md)
-- [User Presentations](proceedings/userpresentations/userpresentations.md)
-
+- Conference Program: [click here](https://modelica.org/events/modelica2020Americas/program-outline) (redirects to another site).
+- Book of Abstracts: [click here to download](proceedings/Modelica_2020Conference_Abstracts.pdf) (single .pdf file).
+- Proceedings: [click here to download](198447_Modelica_2020Proceedings_v2C.pdf) (single .pdf file) or download from [LiU Electronic Press](https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=169).
+- Papers: [click here to download](proceedings/papers/papers.md) individual papers or download from [LiU Electronic Press](https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=169). 
+- User Presentations: [click here to download](proceedings/userpresentations/userpresentations.md) the individual presentations.
 
 ## Important Update: American Modelica Conference converted to Online Conference due to Coronavirus 
 
