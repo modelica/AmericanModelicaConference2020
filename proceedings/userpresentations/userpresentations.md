@@ -37,7 +37,7 @@ Files | [[Presentation]](LuigiVanfrettiCourse.pdf)
 Authors | Marcelo de Castro Fernandes, Manuel Navarro Catalan and Luigi Vanfretti
 --- | ---
 Title | Open Instance Power System Library: a Modelica Library for Phasor Time-Domain Simulations
-Files | 
+Files | [[Presentation]](MarcelodeCastroOpenIPSL.pdf)
 
 
 ## Buildings Applications II [[Intro]](BuildingApplicationsIIIntro.pdf)
