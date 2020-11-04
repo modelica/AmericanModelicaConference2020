@@ -66,13 +66,13 @@ Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Mod
 Authors | Savin Viswanathan and Christian Holden
 --- | ---
 Title | Modelica Component Models for Oceanic Surface Waves and Depth Varying Current
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_3.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_3.pdf) [[Presentation]](Modelica2020US_presentation_3.pdf)
 
 
 Authors | Savin Viswanathan and Christian Holden
 --- | ---
 Title | Modelica Component Models for Non-diffracting Floating Objects and Quasi-static Catenary Moorings
-Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_4.pdf) 
+Files | [[Abstract]](Modelica_2020Conference_Abstracts.pdf)   [[Full Paper]](Modelica2020US_paper_4.pdf) [[Presentation]](Modelica2020US_presentation_4.pdf)
 
 
 Authors | Cory Rupp and Nicolas Reveles
